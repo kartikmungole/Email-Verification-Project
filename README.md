@@ -25,3 +25,4 @@ If the token is valid, the user's account is activated.
 Navigate to the registration page and sign up with your email address.
 A verification email will be sent to the provided email.
 Open the email and click the verification link.
+Once verified, you can log in to your account.
