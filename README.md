@@ -15,10 +15,10 @@ Simple and secure implementation using Django and its built-in functionalities
 **Frontend**: HTML, CSS (optional for UI enhancement)
 
 ## Email Verification Workflow
-A user registers on the site.
-A unique token is generated for the user.
-An email containing the verification link with the token is sent to the user's email.
-The user clicks the verification link.
+* A user registers on the site.
+* A unique token is generated for the user.
+* An email containing the verification link with the token is sent to the user's email.
+* The user clicks the verification link.
 If the token is valid, the user's account is activated.
 
 ## Usage
