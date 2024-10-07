@@ -9,11 +9,13 @@ Resend verification email option
 Login only after email verification
 Simple and secure implementation using Django and its built-in functionalities
 
+
 ## Tech Stack
 **Backend**: Python, Django
 **Database**: SQLite (default for Django, but you can change it)
 **Email Service**: SMTP (for sending verification emails)
 **Frontend**: HTML, CSS (optional for UI enhancement)
+
 
 ## Email Verification Workflow
 * A user registers on the site.
