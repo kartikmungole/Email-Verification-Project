@@ -24,6 +24,7 @@ Simple and secure implementation using Django and its built-in functionalities
 * The user clicks the verification link.
 If the token is valid, the user's account is activated.
 
+
 ## Usage
 Navigate to the registration page and sign up with your email address.
 A verification email will be sent to the provided email.
