@@ -22,11 +22,11 @@ Simple and secure implementation using Django and its built-in functionalities
 * A unique token is generated for the user.
 * An email containing the verification link with the token is sent to the user's email.
 * The user clicks the verification link.
-If the token is valid, the user's account is activated.
+* If the token is valid, the user's account is activated.
 
 
 ## Usage
 * Navigate to the registration page and sign up with your email address.
 * A verification email will be sent to the provided email.
-Open the email and click the verification link.
-Once verified, you can log in to your account.
+* Open the email and click the verification link.
+* Once verified, you can log in to your account.
